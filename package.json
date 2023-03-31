@@ -1,0 +1,12 @@
+{
+  "name": "converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon bin/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
